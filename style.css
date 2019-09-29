@@ -1,0 +1,11 @@
+li {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+ul {
+    list-style: none;
+}
